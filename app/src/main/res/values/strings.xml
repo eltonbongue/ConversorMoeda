@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">conversorDeMoeda</string>
+    <string name="invalid_value">Digite um valor válido</string>
+    <string name="result_text">Resultado: %.2f</string>
+    <string name="rate_not_found">Taxa não encontrada</string>
+    <string name="api_error">Erro na resposta da API</string>
+    <string name="request_failed">Falha na requisição</string>
+</resources>
